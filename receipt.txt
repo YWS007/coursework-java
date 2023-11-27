@@ -1,0 +1,45 @@
+Payment Receipt
+----------------
+Bank: CIMB Bank
+Card Number: 3333666633332222
+Expiry Date: 12/26
+CVV: 222
+Payment Date: 2023-06-05 22:53:21
+Amount Paid: 800.0
+----------------
+Payment Receipt
+----------------
+Bank: Public Bank
+Card Number: 2222333366665555
+Expiry Date: 12/26
+CVV: 333
+Payment Date: 2023-06-05 22:54:02
+Amount Paid: 450.0
+----------------
+Payment Receipt
+----------------
+Bank: CIMB Bank
+Card Number: 1111222233332222
+Expiry Date: 12/26
+CVV: 338
+Payment Date: 2023-06-05 22:55:05
+Amount Paid: 600.0
+----------------
+Payment Receipt
+----------------
+Bank: Public Bank
+Card Number: 1111555588886666
+Expiry Date: 12/26
+CVV: 777
+Payment Date: 2023-06-05 22:56:20
+Amount Paid: 800.0
+----------------
+Payment Receipt
+----------------
+Bank: CIMB Bank
+Card Number: 1111222233336666
+Expiry Date: 12/25
+CVV: 999
+Payment Date: 2023-06-05 22:57:36
+Amount Paid: 450.0
+----------------

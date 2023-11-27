@@ -1,0 +1,32 @@
+TP068421
+05-06-2023
+Approve
+B1001
+TP068422
+05-06-2023
+Approve
+A3002
+TP068423
+05-06-2023
+Approve
+A2002
+TP068424
+05-06-2023
+Approve
+B1002
+TP068426
+05-06-2023
+Reject
+Room not available
+TP068427
+05-06-2023
+Reject
+Room not available
+TP068428
+05-06-2023
+Reject
+Room not available
+TP068429
+05-06-2023
+Approve
+A3002

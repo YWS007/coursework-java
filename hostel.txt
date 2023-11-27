@@ -1,0 +1,6 @@
+M1
+Male Dormitory
+50
+F1
+Female Dormitory
+50
